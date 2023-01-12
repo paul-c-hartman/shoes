@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.17.0)
+    strscan (3.0.5)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  minitest
+  strscan
+
+BUNDLED WITH
+   2.4.3
