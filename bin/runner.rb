@@ -7,6 +7,7 @@
 
 # FIXME Figure out where to extract config options
 
+require "bundler/setup"
 require_relative "../lib/run"
 
 Shoes::Runner.new(*ARGV.to_a).run
