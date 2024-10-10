@@ -1,7 +1,8 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "strscan"
+gem 'strscan'
 
 group :test do
-  gem "minitest"
+  gem 'minitest'
+  gem 'rubocop'
 end
